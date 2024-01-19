@@ -76,7 +76,14 @@
 </ul>
 </li>
 </ol>
-<p><font color="red">P.S.</font><br>a. $A\cap B=A\Leftrightarrow A \subseteq B $; $A\cup B=A \Leftrightarrow B\subseteq A$<br>b. 德摩根公式：$\overline{A\cup B}=\overline A \cap \overline B$; $\overline{A\cap B}=\overline A \cup \overline B$<br>c. 若有限集$A$中有$n$个元素，则<br>&emsp;（1）$A$的子集个数为$2^n$<br>&emsp;（2）非空子集个数为$2^n-1$<br>&emsp;（3）真子集个数为$2^n-1$<br>&emsp;（4）非空真子集个数为$2^n-2$<br>d. 容斥原理：有限集$A, B$元素的个数记为$card(A), card(B)$，则  $card(A\cup B)=card(A)+card(B)-card(A\cap B)$.</p>
+<p><font color="red">P.S.</font><br>a. $A\cap B=A\Leftrightarrow A \subseteq B $; $A\cup B=A \Leftrightarrow B\subseteq A$   </p>
+<p>b. 德摩根公式：$\overline{A\cup B}=\overline A \cap \overline B$; $\overline{A\cap B}=\overline A \cup \overline B$  </p>
+<p>c. 若有限集$A$中有$n$个元素，则 </p>
+<p>&emsp;（1）$A$的子集个数为$2^n$ </p>
+<p>&emsp;（2）非空子集个数为$2^n-1$</p>
+<p>&emsp;（3）真子集个数为$2^n-1$ </p>
+<p>&emsp;（4）非空真子集个数为$2^n-2$   </p>
+<p>d. 容斥原理：有限集$A, B$元素的个数记为$card(A), card(B)$，则  $card(A\cup B)=card(A)+card(B)-card(A\cap B)$.</p>
 <h2 id="逻辑"><a href="#逻辑" class="headerlink" title="逻辑"></a>逻辑</h2><ol>
 <li>命题：若$p$，则$q$，其中$p$为条件，$q$为结论，命题分为<ul>
 <li>真命题：成立的命题</li>
@@ -102,23 +109,23 @@
 </li>
 </ol>
 <h2 id="习题-答案1-21更新"><a href="#习题-答案1-21更新" class="headerlink" title="习题(答案1/21更新)"></a>习题(答案1/21更新)</h2><p>集合专项：  </p>
-<p><img src="/.cn//images\gz-math\1.png" alt="1"></p>
-<p><img src="/.cn//images\gz-math\2.png" alt="2"></p>
-<p><img src="/.cn//images\gz-math\3.png" alt="3"></p>
-<p><img src="/.cn//images\gz-math\4.png" alt="4"></p>
-<p><img src="/.cn//images\gz-math\5.png" alt="5"></p>
-<p><img src="/.cn//images\gz-math\6.png" alt="6"></p>
-<p><img src="/.cn//images\gz-math\7.png" alt="7"></p>
-<p><img src="/.cn//images\gz-math\8.png" alt="8"></p>
+<p><img src="/images/gz-math/1.png" alt="1"></p>
+<p><img src="/images/gz-math/2.png" alt="2"></p>
+<p><img src="/images/gz-math/3.png" alt="3"></p>
+<p><img src="/images/gz-math/4.png" alt="4"></p>
+<p><img src="/images/gz-math/5.png" alt="5"></p>
+<p><img src="/images/gz-math/6.png" alt="6"></p>
+<p><img src="/images/gz-math/7.png" alt="7"></p>
+<p><img src="/images/gz-math/8.png" alt="8"></p>
 <p>逻辑专项：</p>
-<p><img src="/.cn//images\gz-math\9.png" alt="9"></p>
-<p><img src="/.cn//images\gz-math\10.png" alt="10"></p>
-<p><img src="/.cn//images\gz-math\11.png" alt="11"></p>
-<p><img src="/.cn//images\gz-math\12.png" alt="12"></p>
-<p><img src="/.cn//images\gz-math\13.png" alt="13"></p>
-<p><img src="/.cn//images\gz-math\14.png" alt="14"></p>
-<p><img src="/.cn//images\gz-math\15.png" alt="15"></p>
-<p><img src="/.cn//images\gz-math\16.png" alt="16"></p>
+<p><img src="/images/gz-math/9.png" alt="9"></p>
+<p><img src="/images/gz-math/10.png" alt="10"></p>
+<p><img src="/images/gz-math/11.png" alt="11"></p>
+<p><img src="/images/gz-math/12.png" alt="12"></p>
+<p><img src="/images/gz-math/13.png" alt="13"></p>
+<p><img src="/images/gz-math/14.png" alt="14"></p>
+<p><img src="/images/gz-math/15.png" alt="15"></p>
+<p><img src="/images/gz-math/16.png" alt="16"></p>
 ]]></content>
       <categories>
         <category>高中数学</category>
@@ -260,7 +267,7 @@
 </blockquote>
 </li>
 </ol>
-<p><img src="/.cn//images\hc_cs\RC.png" alt="三级阶梯"></p>
+<p><img src="/images/hc_cs/RC.png" alt="三级阶梯"></p>
 <h1 id="科技"><a href="#科技" class="headerlink" title="科技"></a>科技</h1><ol>
 <li><strong>卫星汇总</strong><blockquote>
 <p><font color="green">句芒号</font>： 我国首颗<strong>陆地生态系统碳检测卫星</strong>，于2022年8月4号发射，用于碳储量监测、生态资源详查、国家重大生态工程监测评价。<br><img src="/images/hc_cs/jm.png" alt="句芒号">  </p>
