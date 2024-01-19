@@ -100,12 +100,12 @@
 </li>
 <li>全称量词和存在量词：<ul>
 <li>全称量词：$\forall$，表示“任意”“所有”“每一个”</li>
-<li>存在量词：$\exist$，表示“存在某个”“至少有一个”</li>
+<li>存在量词：$\exists$，表示“存在某个”“至少有一个”</li>
 </ul>
 </li>
 <li>含有量词的命题的否定：<ul>
-<li>$\neg (\forall x \in I, p(x)) \Leftrightarrow \exist x \in I, \neg p(x)$</li>
-<li>$\neg (\exist x \in I, p(x)) \Leftrightarrow \forall x \in I, \neg p(x)$</li>
+<li>$\neg (\forall x \in I, p(x)) \Leftrightarrow \exists x \in I, \neg p(x)$</li>
+<li>$\neg (\exists x \in I, p(x)) \Leftrightarrow \forall x \in I, \neg p(x)$</li>
 </ul>
 </li>
 </ol>
@@ -134,22 +134,6 @@
       <tags>
         <tag>集合</tag>
         <tag>函数</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>昨天的石头也太tm的帅了吧！</title>
-    <url>/2024/01/14/syq/</url>
-    <content><![CDATA[<p><img src="/images/syq.jpg" alt="石宇奇" title="昨天的石头真的牛"></p>
-<div style="text-align: center;">昨天的石宇奇真的超神！一个月内两次屠龙成功！  </div> 
-
-<div style="text-align: center;">“亲爱的桃，请帮我转告奈良冈，他的体能训练课真的很管用！”  </div> 
-]]></content>
-      <categories>
-        <category>心情</category>
-      </categories>
-      <tags>
-        <tag>羽毛球</tag>
-        <tag>石宇奇</tag>
       </tags>
   </entry>
   <entry>
@@ -303,6 +287,22 @@
       </categories>
       <tags>
         <tag>公务员考试</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>昨天的石头也太tm的帅了吧！</title>
+    <url>/2024/01/14/syq/</url>
+    <content><![CDATA[<p><img src="/images/syq.jpg" alt="石宇奇" title="昨天的石头真的牛"></p>
+<div style="text-align: center;">昨天的石宇奇真的超神！一个月内两次屠龙成功！  </div> 
+
+<div style="text-align: center;">“亲爱的桃，请帮我转告奈良冈，他的体能训练课真的很管用！”  </div> 
+]]></content>
+      <categories>
+        <category>心情</category>
+      </categories>
+      <tags>
+        <tag>羽毛球</tag>
+        <tag>石宇奇</tag>
       </tags>
   </entry>
   <entry>
