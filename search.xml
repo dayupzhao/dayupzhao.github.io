@@ -35,128 +35,9 @@
       </tags>
   </entry>
   <entry>
-    <title>【高中数学】湘教版必修一知识点梳理</title>
-    <url>/2024/01/19/gz-math/</url>
-    <content><![CDATA[<p> &emsp;&emsp;为高一上学期数学的全部内容作梳理，用以巩固知识点和考试复习。</p>
-  <span id="more"></span>
-<h1 id="集合与逻辑"><a href="#集合与逻辑" class="headerlink" title="集合与逻辑"></a>集合与逻辑</h1><h2 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h2><ol>
-<li>集合的三要素：无序性、确定性和互异性；</li>
-<li>集合的表示方法：<ul>
-<li>列举法：$\{a,b,c,d,\cdots \}$</li>
-<li>描述法：$\{x|x\in R\}$</li>
-</ul>
-</li>
-<li>常见集合：<ul>
-<li>自然数集 $N$</li>
-<li>整数集 $Z$</li>
-<li>有理数集 $Q$</li>
-<li>实数集 $R$</li>
-<li>虚数集 $C$</li>
-</ul>
-</li>
-<li>集合的分类：<ul>
-<li>有限集：元素个数有限</li>
-<li>无限集：元素个数无限</li>
-<li>空集：$\emptyset$，空集也是有限集</li>
-</ul>
-</li>
-<li>元素之间的关系：满足四则运算，对四则运算封闭的最小集合为有理数集；</li>
-<li>元素与集合之间的关系：$a \in A$ ，元素a属于集合A；$a \notin B$，元素a不属于集合B；</li>
-<li>集合之间的关系：  <ul>
-<li>从属关系 <ul>
-<li>子集：$A \subseteq B$，真子集表示为$A \subsetneqq B$，空集是任何集合的子集</li>
-<li>相等：$A=B$，即$A \subseteq B$且$B \subseteq A$</li>
-</ul>
-</li>
-<li>运算关系<ul>
-<li>并：$A \cup B$</li>
-<li>交：$A\cap B$</li>
-<li>补：$\overline A$，A减去B表示为$A \setminus B$  </li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-<p><font color="red">P.S.</font><br>a. $A\cap B=A\Leftrightarrow A \subseteq B $; $A\cup B=A \Leftrightarrow B\subseteq A$   </p>
-<p>b. 德摩根公式：$\overline{A\cup B}=\overline A \cap \overline B$; $\overline{A\cap B}=\overline A \cup \overline B$  </p>
-<p>c. 若有限集$A$中有$n$个元素，则 </p>
-<p>&emsp;（1）$A$的子集个数为$2^n$ </p>
-<p>&emsp;（2）非空子集个数为$2^n-1$</p>
-<p>&emsp;（3）真子集个数为$2^n-1$ </p>
-<p>&emsp;（4）非空真子集个数为$2^n-2$   </p>
-<p>d. 容斥原理：有限集$A, B$元素的个数记为$card(A), card(B)$，则  $card(A\cup B)=card(A)+card(B)-card(A\cap B)$.</p>
-<h2 id="逻辑"><a href="#逻辑" class="headerlink" title="逻辑"></a>逻辑</h2><ol>
-<li>命题：若$p$，则$q$，其中$p$为条件，$q$为结论，命题分为<ul>
-<li>真命题：成立的命题</li>
-<li>假命题：不成立的命题</li>
-</ul>
-</li>
-<li>命题的否定：$\neg p$，$p$不成立；逆命题：条件和结论互换位置；</li>
-<li>充分条件与必要条件：<ul>
-<li>充分条件：若$p$，则$q$成立，即$p \Rightarrow q$</li>
-<li>必要条件：上述逆命题成立，即$p \Leftarrow q$</li>
-<li>充要条件：上述命题与逆命题都成立，即$p \Leftrightarrow q$</li>
-</ul>
-</li>
-<li>全称量词和存在量词：<ul>
-<li>全称量词：$\forall$，表示“任意”“所有”“每一个”</li>
-<li>存在量词：$\exists$，表示“存在某个”“至少有一个”</li>
-</ul>
-</li>
-<li>含有量词的命题的否定：<ul>
-<li>$\neg (\forall x \in I, p(x)) \Leftrightarrow \exists x \in I, \neg p(x)$</li>
-<li>$\neg (\exists x \in I, p(x)) \Leftrightarrow \forall x \in I, \neg p(x)$</li>
-</ul>
-</li>
-</ol>
-<h2 id="习题-答案1-21更新"><a href="#习题-答案1-21更新" class="headerlink" title="习题(答案1/21更新)"></a>习题(答案1/21更新)</h2><p>集合专项：  </p>
-<p><img src="/images/gz-math/1.png" alt="1"></p>
-<p><img src="/images/gz-math/2.png" alt="2"></p>
-<p><img src="/images/gz-math/3.png" alt="3"></p>
-<p><img src="/images/gz-math/4.png" alt="4"></p>
-<p><img src="/images/gz-math/5.png" alt="5"></p>
-<p><img src="/images/gz-math/6.png" alt="6"></p>
-<p><img src="/images/gz-math/7.png" alt="7"></p>
-<p><img src="/images/gz-math/8.png" alt="8"></p>
-<p>逻辑专项：</p>
-<p><img src="/images/gz-math/9.png" alt="9"></p>
-<p><img src="/images/gz-math/10.png" alt="10"></p>
-<p><img src="/images/gz-math/11.png" alt="11"></p>
-<p><img src="/images/gz-math/12.png" alt="12"></p>
-<p><img src="/images/gz-math/13.png" alt="13"></p>
-<p><img src="/images/gz-math/14.png" alt="14"></p>
-<p><img src="/images/gz-math/15.png" alt="15"></p>
-<p><img src="/images/gz-math/16.png" alt="16"></p>
-]]></content>
-      <categories>
-        <category>高中数学</category>
-      </categories>
-      <tags>
-        <tag>集合</tag>
-        <tag>函数</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>昨天的石头也太tm的帅了吧！</title>
-    <url>/2024/01/14/syq/</url>
-    <content><![CDATA[<p><img src="/images/syq.jpg" alt="石宇奇" title="昨天的石头真的牛"></p>
-<div style="text-align: center;">昨天的石宇奇真的超神！一个月内两次屠龙成功！  </div> 
-
-<div style="text-align: center;">“亲爱的桃，请帮我转告奈良冈，他的体能训练课真的很管用！”  </div> 
-]]></content>
-      <categories>
-        <category>心情</category>
-      </categories>
-      <tags>
-        <tag>羽毛球</tag>
-        <tag>石宇奇</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【行测】常识汇总</title>
     <url>/2024/01/18/hc-cs/</url>
-    <content><![CDATA[<font color="green">记录一下备考省考的过程中遇到的各种常识题，以作复习之用（有些还挺难的）。</font>
-
+    <content><![CDATA[<p>&emsp;&emsp;<font color="green">记录一下备考省考的过程中遇到的各种常识题，以作复习之用（有些还挺难的）。</font></p>
   <span id="more"></span>
 <h1 id="枯燥的政经法"><a href="#枯燥的政经法" class="headerlink" title="枯燥的政经法"></a>枯燥的政经法</h1><h2 id="政治"><a href="#政治" class="headerlink" title="政治"></a>政治</h2><h3 id="《气象高质量发展纲要（2022——2035年）》"><a href="#《气象高质量发展纲要（2022——2035年）》" class="headerlink" title="《气象高质量发展纲要（2022——2035年）》"></a>《气象高质量发展纲要（2022——2035年）》</h3><blockquote>
 <p>2022年5月由国务院印发；<br><em>到 2025年</em>，气象关键核心技术实现<font color="red">自主可控</font>，现代气象科技创新、服务、业务和管理体系更加健全，监测精密、预报准确、服务精细能力不断提升，气象服务供给能力和均等化水平显著提高，<font color="red">气象现代化迈上新台阶</font>;<br><em>到 2035年</em>，气象关键科技领域实现重大突破，气象监测、预报和服务水平全球领先，国际竞争力和影响力显著提升，以<font color="red">智慧气象</font>为主要特征的气象现代化基本实现。</p>
@@ -297,7 +178,7 @@
 <p>沙尘天气是一种由于大风将地面沙尘吹(卷)起或被高空气流带到下游地区而造成的一种大气混浊现象，<font color="red">按照程度划分，沙尘天气分为浮尘、扬沙、沙尘暴和强沙尘暴四类</font>.<br>台风中心为低压中心，以气流的垂直运动为主<br>我国的暴雨预警信号分四级：蓝黄橙红<br>寒潮是指来自极地或寒带的寒冷空气像潮水一样大规模地向中、低纬度的侵袭活动；在我国，主要爆发于初春时节  </p>
 </blockquote>
 <h3 id="中国地势三级阶梯"><a href="#中国地势三级阶梯" class="headerlink" title="中国地势三级阶梯"></a>中国地势三级阶梯</h3><blockquote>
-<p>第一级阶梯是青藏高原，平均海拔在 4000 米以上。其北部与东部边缘分布有昆仑山脉、阿尔金山脉、祁连山脉、横断山脉，它们的北、东缘是地势第一、二级阶梯的分界线。柴达木盆地，位于第一级阶梯，在我国四大盆地中平均海拔最高，素有“聚宝盆”之称。<br>第二级阶梯平均海拔在 1000-2000 米，这里分布着大型的盆地和高原，包括内蒙古高原、黄土高原、云贵高原、塔里木盆地、准噶尔盆地和四川盆地。其东部边缘有大兴安岭、太行山脉、伏牛山、巫山、雪峰山等，它们的东麓是地势的第二、三级阶梯的分界线。<br>地势的第三级阶梯上主要分布着广阔的平原，间有丘陵和低山，海拔多在 500 米以下。</p>
+<p>第一级阶梯是青藏高原，平均海拔在 4000 米以上。其北部与东部边缘分布有昆仑山脉、阿尔金山脉、祁连山脉、横断山脉，它们的北、东缘是地势第一、二级阶梯的分界线。柴达木盆地，位于第一级阶梯，在我国四大盆地中平均海拔最高，素有“聚宝盆”之称。<br>第二级阶梯平均海拔在 1000-2000 米，这里分布着大型的盆地和高原，包括内蒙古高原、黄土高原、云贵高原、塔里木盆地、准噶尔盆地和四川盆地。其东部边缘有大兴安岭、太行山脉、伏牛山、巫山、雪峰山等，它们的东麓是地势的第二、三级阶梯的分界线。<br>第三级阶梯上主要分布着广阔的平原，间有丘陵和低山，海拔多在 500 米以下。</p>
 </blockquote>
 <p><img src="/images/hc_cs/RC.png" alt="三级阶梯"></p>
 <h1 id="科技"><a href="#科技" class="headerlink" title="科技"></a>科技</h1><h2 id="卫星汇总"><a href="#卫星汇总" class="headerlink" title="卫星汇总"></a><strong>卫星汇总</strong></h2><blockquote>
@@ -335,71 +216,132 @@
       </tags>
   </entry>
   <entry>
-    <title>基础——系统安装与网络连接</title>
-    <url>/2024/01/15/yw1/</url>
-    <content><![CDATA[<p> &emsp;&emsp;  本文主要介绍Windows系统在实机和虚拟机上的安装，以及Linux操作系统的安装。<br>  <span id="more"></span></p>
-<h1 id="安装Windows操作系统"><a href="#安装Windows操作系统" class="headerlink" title="安装Windows操作系统"></a>安装Windows操作系统</h1><h2 id="Windows操作系统分类"><a href="#Windows操作系统分类" class="headerlink" title="Windows操作系统分类"></a>Windows操作系统分类</h2><p>   &emsp;&emsp;Windows操作系统分为个人版和服务器版：</p>
-<ol>
-<li>个人版：Windows xp/7/8/10/11 </li>
-<li><p>服务器(server)版：Windows Sever NT/2000/2003/2008/2012/2016/2019</p>
-<h2 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h2><p>&emsp;&emsp;基于上述分类方法，自然将安装方法分为针对个人版操作系统的安装方法和针对服务器版的安装方法：</p>
-</li>
-<li>对个人电脑（少量）：使用U盘或光盘安装</li>
-<li><p>对服务器（大量）：</p>
-<ul>
-<li><p>磁盘对拷：</p>
-<p>系统   | 软件 | 优点 | 缺点<br>——- | —- | —— | —-<br>Windows | ghost  | 速度快，兼容性高 | 不稳定<br>Linux | dd  | 刻录稳定 | 刻录时间长  </p>
-</li>
-<li><p>批量无人值守网络安装：这是较难的内容，运维技术中级才能完全理解，详情参见<a href="https://blog.csdn.net/weixin_51432770/article/details/110953108">PXE配合Kickstart无人值守——批量装机简单如喝水（详细）</a>。其突出的优点是一对多，无人值守，缺点是对人员技术要求高。</p>
-</li>
-</ul>
-<h2 id="重装Windows系统的步骤"><a href="#重装Windows系统的步骤" class="headerlink" title="重装Windows系统的步骤"></a>重装Windows系统的步骤</h2><ol>
-<li>拔网线<br>&emsp;&emsp;这一步是在公共网络的环境下必须要做的，防止在安装系统时计算机受到攻击，确保新装好的系统是一个干净的系统；</li>
-<li>安装Windows系统<br>&emsp;&emsp;这是最重要的步骤，操作流程为：</li>
-</ol>
-<ul>
-<li>备份：先把电脑里的重要资料备份，防止安装系统时丢失资料；</li>
-<li>下载系统镜像文件：镜像文件的后缀为.iso，含义是光盘。可以在<a href="https://www.microsoft.com/zh-cn/software-download/windows10">官网</a>下载，激活码可以在淘宝上买到；</li>
-<li>制作启动U盘：由于在Windows系统中无法直接格式化C盘，所以我们需要利用U盘建立PE系统绕开C盘启动电脑，进而彻底删除C盘上的Windows系统，达到重装系统的目的。我们可以利用第三方软件制作启动盘，这里我选用的是大白菜，具体步骤为：<br>a.浏览器打开 <a href="https://www.winbaicai.com，下载装机版UEFI；">https://www.winbaicai.com，下载装机版UEFI；</a><br><img src="/images/yw1/zjb.png" alt="下载装机版"><br>b.解压安装后，插入一个没有任何重要资料的U盘，关闭杀毒软件后运行大白菜装机版，选择“默认模式”，在磁盘列表中选择需要制作启动的设备，在模式选项中选择“USB-HDD”，格式选择“NTFS”，然后点击“一键制作成USB启动盘”；<br><img src="/images/yw1/qdp.png" alt="制作启动盘"><br>这样启动U盘就制作好了；  </li>
-<li>重启电脑进入BIOS（基本输入/输出系统），修改U盘启动优先：不同电脑进入BIOS的方式不同，一般笔记本为重启时连续点按F2，台式机为重启时连续点按Del。不同电脑修改的位置也不同，注意找到boot manager。联想小新可以不进入BIOS直接按Fn+F12修改U盘启动优先。<br><img src="/images/yw1/bios.png" alt="bios"><br><img src="/images/yw1/xiaoxin.png" alt="xiaoxin">  </li>
-<li>进入PE系统后，在硬盘中找到下载的系统镜像文件，直接安装就行，注意安装到C盘（后续会有划区的知识补充）；</li>
-<li>在第一次启动时进入BIOS修改回硬盘启动优先。</li>
-</ul>
-<ol>
-<li><p>安装驱动程序<br>&emsp;&emsp;我们有两种选择，最简单方便的是借助第三方工具，如驱动精灵、鲁大师等，可以一键安装，但是第三方软件不开源，不能保证相对安全，且会出现集成广告；相对安全的方式是手工官网（电脑品牌官网）下载安装，耗时较长；</p>
-</li>
-<li><p>安装杀毒软件及防火墙</p>
-<ul>
-<li>杀毒软件：360、火绒都是比较好的选择，金山系软件绝对不能碰！</li>
-<li>防火墙：一般 Windows自带防火墙，用于数据包过滤（IP 地址、MAC 地址、端口号、底层协议、数据包中数据）；</li>
+    <title>【高中数学】湘教版必修一知识点梳理</title>
+    <url>/2024/01/19/gz-math/</url>
+    <content><![CDATA[<p> &emsp;&emsp;为高一上学期数学的全部内容作梳理，用以巩固知识点和考试复习。</p>
+  <span id="more"></span>
+<h1 id="集合与逻辑"><a href="#集合与逻辑" class="headerlink" title="集合与逻辑"></a>集合与逻辑</h1><h2 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h2><ol>
+<li>集合的三要素：无序性、确定性和互异性；</li>
+<li>集合的表示方法：<ul>
+<li>列举法：$\{a,b,c,d,\cdots \}$</li>
+<li>描述法：$\{x|x\in R\}$</li>
 </ul>
 </li>
-<li><p>插入网线</p>
+<li>常见集合：<ul>
+<li>自然数集 $N$</li>
+<li>整数集 $Z$</li>
+<li>有理数集 $Q$</li>
+<li>实数集 $R$</li>
+<li>虚数集 $C$</li>
+</ul>
 </li>
-<li>更新<br>&emsp;&emsp;Windows补丁、驱动以及杀毒软件都要更新的最佳状态；</li>
-<li>安装常用软件</li>
-<li>常规优化</li>
+<li>集合的分类：<ul>
+<li>有限集：元素个数有限</li>
+<li>无限集：元素个数无限</li>
+<li>空集：$\emptyset$，空集也是有限集</li>
+</ul>
+</li>
+<li>元素之间的关系：满足四则运算，对四则运算封闭的最小集合为有理数集；</li>
+<li>元素与集合之间的关系：$a \in A$ ，元素a属于集合A；$a \notin B$，元素a不属于集合B；</li>
+<li>集合之间的关系：  <ul>
+<li>从属关系 <ul>
+<li>子集：$A \subseteq B$，真子集表示为$A \subsetneqq B$，空集是任何集合的子集</li>
+<li>相等：$A=B$，即$A \subseteq B$且$B \subseteq A$</li>
+</ul>
+</li>
+<li>运算关系<ul>
+<li>并：$A \cup B$</li>
+<li>交：$A\cap B$</li>
+<li>补：$\overline A$，A减去B表示为$A \setminus B$  </li>
+</ul>
+</li>
+</ul>
+</li>
 </ol>
-<h1 id="虚拟机中安装Windows系统"><a href="#虚拟机中安装Windows系统" class="headerlink" title="虚拟机中安装Windows系统"></a>虚拟机中安装Windows系统</h1><h2 id="安装虚拟机"><a href="#安装虚拟机" class="headerlink" title="安装虚拟机"></a>安装虚拟机</h2><ol>
-<li>去<a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">官网</a>下载VMware16pro安装包；</li>
-<li>解压安装包后双击.exe文件，进入安装向导；<br><img src="/images/yw1/1.png" alt="安装向导">  </li>
-<li><p>下一步到自定义安装位置，根据个人情况更改安装位置；<br><img src="/images/yw1/2.png" alt="aaa"></p>
+<p><font color="red">P.S.</font><br>a. $A\cap B=A\Leftrightarrow A \subseteq B $; $A\cup B=A \Leftrightarrow B\subseteq A$   </p>
+<p>b. 德摩根公式：$\overline{A\cup B}=\overline A \cap \overline B$; $\overline{A\cap B}=\overline A \cup \overline B$  </p>
+<p>c. 若有限集$A$中有$n$个元素，则 </p>
+<p>&emsp;（1）$A$的子集个数为$2^n$ </p>
+<p>&emsp;（2）非空子集个数为$2^n-1$</p>
+<p>&emsp;（3）真子集个数为$2^n-1$ </p>
+<p>&emsp;（4）非空真子集个数为$2^n-2$   </p>
+<p>d. 容斥原理：有限集$A, B$元素的个数记为$card(A), card(B)$，则  $card(A\cup B)=card(A)+card(B)-card(A\cap B)$.</p>
+<h2 id="逻辑"><a href="#逻辑" class="headerlink" title="逻辑"></a>逻辑</h2><ol>
+<li>命题：若$p$，则$q$，其中$p$为条件，$q$为结论，命题分为<ul>
+<li>真命题：成立的命题</li>
+<li>假命题：不成立的命题</li>
+</ul>
 </li>
-<li><p>一直下一步即可，点击安装；<br><img src="/images/yw1/3.png" alt="bbb"></p>
+<li>命题的否定：$\neg p$，$p$不成立；逆命题：条件和结论互换位置；</li>
+<li>充分条件与必要条件：<ul>
+<li>充分条件：若$p$，则$q$成立，即$p \Rightarrow q$</li>
+<li>必要条件：上述逆命题成立，即$p \Leftarrow q$</li>
+<li>充要条件：上述命题与逆命题都成立，即$p \Leftrightarrow q$</li>
+</ul>
 </li>
-<li><p>安装完成后，点击许可证，输入密钥：ZF3R0-FHED2-M80TY-8QYGC-NPKYF；YF390-0HF8P-M81RQ-2DXQE-M2UT6；ZF71R-DMX85-08DQY-8YMNC-PPHV8，点击完成即可安装成功。<br><img src="/images/yw1/4.png" alt="ccc"></p>
+<li>全称量词和存在量词：<ul>
+<li>全称量词：$\forall$，表示“任意”“所有”“每一个”</li>
+<li>存在量词：$\exists$，表示“存在某个”“至少有一个”</li>
+</ul>
+</li>
+<li>含有量词的命题的否定：<ul>
+<li>$\neg (\forall x \in I, p(x)) \Leftrightarrow \exists x \in I, \neg p(x)$</li>
+<li>$\neg (\exists x \in I, p(x)) \Leftrightarrow \forall x \in I, \neg p(x)$</li>
+</ul>
 </li>
 </ol>
-<h2 id="虚拟机安装常见报错"><a href="#虚拟机安装常见报错" class="headerlink" title="虚拟机安装常见报错"></a>虚拟机安装常见报错</h2></li>
-</ol>
-<h2 id="虚拟机中安装Windows-sever-2008系统"><a href="#虚拟机中安装Windows-sever-2008系统" class="headerlink" title="虚拟机中安装Windows sever 2008系统"></a>虚拟机中安装Windows sever 2008系统</h2><h2 id="虚拟机网络设置"><a href="#虚拟机网络设置" class="headerlink" title="虚拟机网络设置"></a>虚拟机网络设置</h2><h1 id="安装Linux系统"><a href="#安装Linux系统" class="headerlink" title="安装Linux系统"></a>安装Linux系统</h1>]]></content>
+<h2 id="习题-答案1-21更新"><a href="#习题-答案1-21更新" class="headerlink" title="习题(答案1/21更新)"></a>习题(答案1/21更新)</h2><p>集合专项：  </p>
+<p><img src="/images/gz-math/1.png" alt="1"></p>
+<p><img src="/images/gz-math/2.png" alt="2"></p>
+<p><img src="/images/gz-math/3.png" alt="3"></p>
+<p><img src="/images/gz-math/4.png" alt="4"></p>
+<p><img src="/images/gz-math/5.png" alt="5"></p>
+<p><img src="/images/gz-math/6.png" alt="6"></p>
+<p><img src="/images/gz-math/7.png" alt="7"></p>
+<p><img src="/images/gz-math/8.png" alt="8"></p>
+<p>逻辑专项：</p>
+<p><img src="/images/gz-math/9.png" alt="9"></p>
+<p><img src="/images/gz-math/10.png" alt="10"></p>
+<p><img src="/images/gz-math/11.png" alt="11"></p>
+<p><img src="/images/gz-math/12.png" alt="12"></p>
+<p><img src="/images/gz-math/13.png" alt="13"></p>
+<p><img src="/images/gz-math/14.png" alt="14"></p>
+<p><img src="/images/gz-math/15.png" alt="15"></p>
+<p><img src="/images/gz-math/16.png" alt="16"></p>
+<p>答案</p>
+<p><img src="/images/gz-math/d1.png" alt="d1"></p>
+<p><img src="/images/gz-math/d2.png" alt="d2"></p>
+<p><img src="/images/gz-math/d3.png" alt="d3"></p>
+<p><img src="/images/gz-math/d4.png" alt="d4"></p>
+<p><img src="/images/gz-math/d5.png" alt="d5"></p>
+<p><img src="/images/gz-math/d6.png" alt="d6"></p>
+<p><img src="/images/gz-math/d7.png" alt="d7"></p>
+<p><img src="/images/gz-math/d8.png" alt="d8"></p>
+<p><img src="/images/gz-math/d9.png" alt="d9"></p>
+<p><img src="/images/gz-math/d10.png" alt="d10"></p>
+<h1 id="一元二次函数、方程和不等式"><a href="#一元二次函数、方程和不等式" class="headerlink" title="一元二次函数、方程和不等式"></a>一元二次函数、方程和不等式</h1><h2 id="相等关系和不等关系"><a href="#相等关系和不等关系" class="headerlink" title="相等关系和不等关系"></a>相等关系和不等关系</h2><h2 id="一元二次函数与一元二次方程"><a href="#一元二次函数与一元二次方程" class="headerlink" title="一元二次函数与一元二次方程"></a>一元二次函数与一元二次方程</h2><h2 id="一元二次不等式"><a href="#一元二次不等式" class="headerlink" title="一元二次不等式"></a>一元二次不等式</h2>]]></content>
       <categories>
-        <category>运维技术初级</category>
+        <category>高中数学</category>
       </categories>
       <tags>
-        <tag>虚拟机</tag>
-        <tag>Windows</tag>
-        <tag>Linux</tag>
+        <tag>集合</tag>
+        <tag>函数</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>昨天的石头也太tm的帅了吧！</title>
+    <url>/2024/01/14/syq/</url>
+    <content><![CDATA[<p><img src="/images/syq.jpg" alt="石宇奇" title="昨天的石头真的牛"></p>
+<div style="text-align: center;">昨天的石宇奇真的超神！一个月内两次屠龙成功！  </div> 
+
+<div style="text-align: center;">“亲爱的桃，请帮我转告奈良冈，他的体能训练课真的很管用！”  </div> 
+]]></content>
+      <categories>
+        <category>心情</category>
+      </categories>
+      <tags>
+        <tag>羽毛球</tag>
+        <tag>石宇奇</tag>
       </tags>
   </entry>
   <entry>
@@ -525,6 +467,74 @@
       <tags>
         <tag>测试</tag>
         <tag>评论</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>基础——系统安装与网络连接</title>
+    <url>/2024/01/15/yw1/</url>
+    <content><![CDATA[<p> &emsp;&emsp;  本文主要介绍Windows系统在实机和虚拟机上的安装，以及Linux操作系统的安装。<br>  <span id="more"></span></p>
+<h1 id="安装Windows操作系统"><a href="#安装Windows操作系统" class="headerlink" title="安装Windows操作系统"></a>安装Windows操作系统</h1><h2 id="Windows操作系统分类"><a href="#Windows操作系统分类" class="headerlink" title="Windows操作系统分类"></a>Windows操作系统分类</h2><p>   &emsp;&emsp;Windows操作系统分为个人版和服务器版：</p>
+<ol>
+<li>个人版：Windows xp/7/8/10/11 </li>
+<li><p>服务器(server)版：Windows Sever NT/2000/2003/2008/2012/2016/2019</p>
+<h2 id="安装方法"><a href="#安装方法" class="headerlink" title="安装方法"></a>安装方法</h2><p>&emsp;&emsp;基于上述分类方法，自然将安装方法分为针对个人版操作系统的安装方法和针对服务器版的安装方法：</p>
+</li>
+<li>对个人电脑（少量）：使用U盘或光盘安装</li>
+<li><p>对服务器（大量）：</p>
+<ul>
+<li><p>磁盘对拷：</p>
+<p>系统   | 软件 | 优点 | 缺点<br>——- | —- | —— | —-<br>Windows | ghost  | 速度快，兼容性高 | 不稳定<br>Linux | dd  | 刻录稳定 | 刻录时间长  </p>
+</li>
+<li><p>批量无人值守网络安装：这是较难的内容，运维技术中级才能完全理解，详情参见<a href="https://blog.csdn.net/weixin_51432770/article/details/110953108">PXE配合Kickstart无人值守——批量装机简单如喝水（详细）</a>。其突出的优点是一对多，无人值守，缺点是对人员技术要求高。</p>
+</li>
+</ul>
+<h2 id="重装Windows系统的步骤"><a href="#重装Windows系统的步骤" class="headerlink" title="重装Windows系统的步骤"></a>重装Windows系统的步骤</h2><ol>
+<li>拔网线<br>&emsp;&emsp;这一步是在公共网络的环境下必须要做的，防止在安装系统时计算机受到攻击，确保新装好的系统是一个干净的系统；</li>
+<li>安装Windows系统<br>&emsp;&emsp;这是最重要的步骤，操作流程为：</li>
+</ol>
+<ul>
+<li>备份：先把电脑里的重要资料备份，防止安装系统时丢失资料；</li>
+<li>下载系统镜像文件：镜像文件的后缀为.iso，含义是光盘。可以在<a href="https://www.microsoft.com/zh-cn/software-download/windows10">官网</a>下载，激活码可以在淘宝上买到；</li>
+<li>制作启动U盘：由于在Windows系统中无法直接格式化C盘，所以我们需要利用U盘建立PE系统绕开C盘启动电脑，进而彻底删除C盘上的Windows系统，达到重装系统的目的。我们可以利用第三方软件制作启动盘，这里我选用的是大白菜，具体步骤为：<br>a.浏览器打开 <a href="https://www.winbaicai.com，下载装机版UEFI；">https://www.winbaicai.com，下载装机版UEFI；</a><br><img src="/images/yw1/zjb.png" alt="下载装机版"><br>b.解压安装后，插入一个没有任何重要资料的U盘，关闭杀毒软件后运行大白菜装机版，选择“默认模式”，在磁盘列表中选择需要制作启动的设备，在模式选项中选择“USB-HDD”，格式选择“NTFS”，然后点击“一键制作成USB启动盘”；<br><img src="/images/yw1/qdp.png" alt="制作启动盘"><br>这样启动U盘就制作好了；  </li>
+<li>重启电脑进入BIOS（基本输入/输出系统），修改U盘启动优先：不同电脑进入BIOS的方式不同，一般笔记本为重启时连续点按F2，台式机为重启时连续点按Del。不同电脑修改的位置也不同，注意找到boot manager。联想小新可以不进入BIOS直接按Fn+F12修改U盘启动优先。<br><img src="/images/yw1/bios.png" alt="bios"><br><img src="/images/yw1/xiaoxin.png" alt="xiaoxin">  </li>
+<li>进入PE系统后，在硬盘中找到下载的系统镜像文件，直接安装就行，注意安装到C盘（后续会有划区的知识补充）；</li>
+<li>在第一次启动时进入BIOS修改回硬盘启动优先。</li>
+</ul>
+<ol>
+<li><p>安装驱动程序<br>&emsp;&emsp;我们有两种选择，最简单方便的是借助第三方工具，如驱动精灵、鲁大师等，可以一键安装，但是第三方软件不开源，不能保证相对安全，且会出现集成广告；相对安全的方式是手工官网（电脑品牌官网）下载安装，耗时较长；</p>
+</li>
+<li><p>安装杀毒软件及防火墙</p>
+<ul>
+<li>杀毒软件：360、火绒都是比较好的选择，金山系软件绝对不能碰！</li>
+<li>防火墙：一般 Windows自带防火墙，用于数据包过滤（IP 地址、MAC 地址、端口号、底层协议、数据包中数据）；</li>
+</ul>
+</li>
+<li><p>插入网线</p>
+</li>
+<li>更新<br>&emsp;&emsp;Windows补丁、驱动以及杀毒软件都要更新的最佳状态；</li>
+<li>安装常用软件</li>
+<li>常规优化</li>
+</ol>
+<h1 id="虚拟机中安装Windows系统"><a href="#虚拟机中安装Windows系统" class="headerlink" title="虚拟机中安装Windows系统"></a>虚拟机中安装Windows系统</h1><h2 id="安装虚拟机"><a href="#安装虚拟机" class="headerlink" title="安装虚拟机"></a>安装虚拟机</h2><ol>
+<li>去<a href="https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html">官网</a>下载VMware16pro安装包；</li>
+<li>解压安装包后双击.exe文件，进入安装向导；<br><img src="/images/yw1/1.png" alt="安装向导">  </li>
+<li><p>下一步到自定义安装位置，根据个人情况更改安装位置；<br><img src="/images/yw1/2.png" alt="aaa"></p>
+</li>
+<li><p>一直下一步即可，点击安装；<br><img src="/images/yw1/3.png" alt="bbb"></p>
+</li>
+<li><p>安装完成后，点击许可证，输入密钥：ZF3R0-FHED2-M80TY-8QYGC-NPKYF；YF390-0HF8P-M81RQ-2DXQE-M2UT6；ZF71R-DMX85-08DQY-8YMNC-PPHV8，点击完成即可安装成功。<br><img src="/images/yw1/4.png" alt="ccc"></p>
+</li>
+</ol>
+<h2 id="虚拟机安装常见报错"><a href="#虚拟机安装常见报错" class="headerlink" title="虚拟机安装常见报错"></a>虚拟机安装常见报错</h2></li>
+</ol>
+<h2 id="虚拟机中安装Windows-sever-2008系统"><a href="#虚拟机中安装Windows-sever-2008系统" class="headerlink" title="虚拟机中安装Windows sever 2008系统"></a>虚拟机中安装Windows sever 2008系统</h2><h2 id="虚拟机网络设置"><a href="#虚拟机网络设置" class="headerlink" title="虚拟机网络设置"></a>虚拟机网络设置</h2><h1 id="安装Linux系统"><a href="#安装Linux系统" class="headerlink" title="安装Linux系统"></a>安装Linux系统</h1>]]></content>
+      <categories>
+        <category>运维技术初级</category>
+      </categories>
+      <tags>
+        <tag>虚拟机</tag>
+        <tag>Windows</tag>
+        <tag>Linux</tag>
       </tags>
   </entry>
 </search>
