@@ -35,6 +35,119 @@
       </tags>
   </entry>
   <entry>
+    <title>【高中数学】湘教版必修一知识点梳理</title>
+    <url>/2024/01/19/gz-math/</url>
+    <content><![CDATA[<p> &emsp;&emsp;为高一上学期数学的全部内容作梳理，用以巩固知识点和考试复习。</p>
+  <span id="more"></span>
+<h1 id="集合与逻辑"><a href="#集合与逻辑" class="headerlink" title="集合与逻辑"></a>集合与逻辑</h1><h2 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h2><ol>
+<li>集合的三要素：无序性、确定性和互异性；</li>
+<li>集合的表示方法：<ul>
+<li>列举法：$\{a,b,c,d,\cdots \}$</li>
+<li>描述法：$\{x|x\in R\}$</li>
+</ul>
+</li>
+<li>常见集合：<ul>
+<li>自然数集 $N$</li>
+<li>整数集 $Z$</li>
+<li>有理数集 $Q$</li>
+<li>实数集 $R$</li>
+<li>虚数集 $C$</li>
+</ul>
+</li>
+<li>集合的分类：<ul>
+<li>有限集：元素个数有限</li>
+<li>无限集：元素个数无限</li>
+<li>空集：$\emptyset$，空集也是有限集</li>
+</ul>
+</li>
+<li>元素之间的关系：满足四则运算，对四则运算封闭的最小集合为有理数集；</li>
+<li>元素与集合之间的关系：$a \in A$ ，元素a属于集合A；$a \notin B$，元素a不属于集合B；</li>
+<li>集合之间的关系：  <ul>
+<li>从属关系 <ul>
+<li>子集：$A \subseteq B$，真子集表示为$A \subsetneqq B$，空集是任何集合的子集</li>
+<li>相等：$A=B$，即$A \subseteq B$且$B \subseteq A$</li>
+</ul>
+</li>
+<li>运算关系<ul>
+<li>并：$A \cup B$</li>
+<li>交：$A\cap B$</li>
+<li>补：$\overline A$，A减去B表示为$A \setminus B$  </li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<p><font color="red">P.S.</font><br>a. $A\cap B=A\Leftrightarrow A \subseteq B $; $A\cup B=A \Leftrightarrow B\subseteq A$   </p>
+<p>b. 德摩根公式：$\overline{A\cup B}=\overline A \cap \overline B$; $\overline{A\cap B}=\overline A \cup \overline B$  </p>
+<p>c. 若有限集$A$中有$n$个元素，则 </p>
+<p>&emsp;（1）$A$的子集个数为$2^n$ </p>
+<p>&emsp;（2）非空子集个数为$2^n-1$</p>
+<p>&emsp;（3）真子集个数为$2^n-1$ </p>
+<p>&emsp;（4）非空真子集个数为$2^n-2$   </p>
+<p>d. 容斥原理：有限集$A, B$元素的个数记为$card(A), card(B)$，则  $card(A\cup B)=card(A)+card(B)-card(A\cap B)$.</p>
+<h2 id="逻辑"><a href="#逻辑" class="headerlink" title="逻辑"></a>逻辑</h2><ol>
+<li>命题：若$p$，则$q$，其中$p$为条件，$q$为结论，命题分为<ul>
+<li>真命题：成立的命题</li>
+<li>假命题：不成立的命题</li>
+</ul>
+</li>
+<li>命题的否定：$\neg p$，$p$不成立；逆命题：条件和结论互换位置；</li>
+<li>充分条件与必要条件：<ul>
+<li>充分条件：若$p$，则$q$成立，即$p \Rightarrow q$</li>
+<li>必要条件：上述逆命题成立，即$p \Leftarrow q$</li>
+<li>充要条件：上述命题与逆命题都成立，即$p \Leftrightarrow q$</li>
+</ul>
+</li>
+<li>全称量词和存在量词：<ul>
+<li>全称量词：$\forall$，表示“任意”“所有”“每一个”</li>
+<li>存在量词：$\exists$，表示“存在某个”“至少有一个”</li>
+</ul>
+</li>
+<li>含有量词的命题的否定：<ul>
+<li>$\neg (\forall x \in I, p(x)) \Leftrightarrow \exists x \in I, \neg p(x)$</li>
+<li>$\neg (\exists x \in I, p(x)) \Leftrightarrow \forall x \in I, \neg p(x)$</li>
+</ul>
+</li>
+</ol>
+<h2 id="习题-答案1-21更新"><a href="#习题-答案1-21更新" class="headerlink" title="习题(答案1/21更新)"></a>习题(答案1/21更新)</h2><p>集合专项：  </p>
+<p><img src="/images/gz-math/1.png" alt="1"></p>
+<p><img src="/images/gz-math/2.png" alt="2"></p>
+<p><img src="/images/gz-math/3.png" alt="3"></p>
+<p><img src="/images/gz-math/4.png" alt="4"></p>
+<p><img src="/images/gz-math/5.png" alt="5"></p>
+<p><img src="/images/gz-math/6.png" alt="6"></p>
+<p><img src="/images/gz-math/7.png" alt="7"></p>
+<p><img src="/images/gz-math/8.png" alt="8"></p>
+<p>逻辑专项：</p>
+<p><img src="/images/gz-math/9.png" alt="9"></p>
+<p><img src="/images/gz-math/10.png" alt="10"></p>
+<p><img src="/images/gz-math/11.png" alt="11"></p>
+<p><img src="/images/gz-math/12.png" alt="12"></p>
+<p><img src="/images/gz-math/13.png" alt="13"></p>
+<p><img src="/images/gz-math/14.png" alt="14"></p>
+<p><img src="/images/gz-math/15.png" alt="15"></p>
+<p><img src="/images/gz-math/16.png" alt="16"></p>
+<p>答案</p>
+<p><img src="/images/gz-math/d1.png" alt="d1"></p>
+<p><img src="/images/gz-math/d2.png" alt="d2"></p>
+<p><img src="/images/gz-math/d3.png" alt="d3"></p>
+<p><img src="/images/gz-math/d4.png" alt="d4"></p>
+<p><img src="/images/gz-math/d5.png" alt="d5"></p>
+<p><img src="/images/gz-math/d6.png" alt="d6"></p>
+<p><img src="/images/gz-math/d7.png" alt="d7"></p>
+<p><img src="/images/gz-math/d8.png" alt="d8"></p>
+<p><img src="/images/gz-math/d9.png" alt="d9"></p>
+<p><img src="/images/gz-math/d10.png" alt="d10"></p>
+<h1 id="一元二次函数、方程和不等式"><a href="#一元二次函数、方程和不等式" class="headerlink" title="一元二次函数、方程和不等式"></a>一元二次函数、方程和不等式</h1><h2 id="相等关系和不等关系"><a href="#相等关系和不等关系" class="headerlink" title="相等关系和不等关系"></a>相等关系和不等关系</h2><h2 id="一元二次函数与一元二次方程"><a href="#一元二次函数与一元二次方程" class="headerlink" title="一元二次函数与一元二次方程"></a>一元二次函数与一元二次方程</h2><h2 id="一元二次不等式"><a href="#一元二次不等式" class="headerlink" title="一元二次不等式"></a>一元二次不等式</h2>]]></content>
+      <categories>
+        <category>高中数学</category>
+      </categories>
+      <tags>
+        <tag>集合</tag>
+        <tag>函数</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【行测】常识汇总</title>
     <url>/2024/01/18/hc-cs/</url>
     <content><![CDATA[<p>&emsp;&emsp;<font color="green">记录一下备考省考的过程中遇到的各种常识题，以作复习之用（有些还挺难的）。</font></p>
@@ -216,119 +329,6 @@
       </tags>
   </entry>
   <entry>
-    <title>【高中数学】湘教版必修一知识点梳理</title>
-    <url>/2024/01/19/gz-math/</url>
-    <content><![CDATA[<p> &emsp;&emsp;为高一上学期数学的全部内容作梳理，用以巩固知识点和考试复习。</p>
-  <span id="more"></span>
-<h1 id="集合与逻辑"><a href="#集合与逻辑" class="headerlink" title="集合与逻辑"></a>集合与逻辑</h1><h2 id="集合"><a href="#集合" class="headerlink" title="集合"></a>集合</h2><ol>
-<li>集合的三要素：无序性、确定性和互异性；</li>
-<li>集合的表示方法：<ul>
-<li>列举法：$\{a,b,c,d,\cdots \}$</li>
-<li>描述法：$\{x|x\in R\}$</li>
-</ul>
-</li>
-<li>常见集合：<ul>
-<li>自然数集 $N$</li>
-<li>整数集 $Z$</li>
-<li>有理数集 $Q$</li>
-<li>实数集 $R$</li>
-<li>虚数集 $C$</li>
-</ul>
-</li>
-<li>集合的分类：<ul>
-<li>有限集：元素个数有限</li>
-<li>无限集：元素个数无限</li>
-<li>空集：$\emptyset$，空集也是有限集</li>
-</ul>
-</li>
-<li>元素之间的关系：满足四则运算，对四则运算封闭的最小集合为有理数集；</li>
-<li>元素与集合之间的关系：$a \in A$ ，元素a属于集合A；$a \notin B$，元素a不属于集合B；</li>
-<li>集合之间的关系：  <ul>
-<li>从属关系 <ul>
-<li>子集：$A \subseteq B$，真子集表示为$A \subsetneqq B$，空集是任何集合的子集</li>
-<li>相等：$A=B$，即$A \subseteq B$且$B \subseteq A$</li>
-</ul>
-</li>
-<li>运算关系<ul>
-<li>并：$A \cup B$</li>
-<li>交：$A\cap B$</li>
-<li>补：$\overline A$，A减去B表示为$A \setminus B$  </li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-<p><font color="red">P.S.</font><br>a. $A\cap B=A\Leftrightarrow A \subseteq B $; $A\cup B=A \Leftrightarrow B\subseteq A$   </p>
-<p>b. 德摩根公式：$\overline{A\cup B}=\overline A \cap \overline B$; $\overline{A\cap B}=\overline A \cup \overline B$  </p>
-<p>c. 若有限集$A$中有$n$个元素，则 </p>
-<p>&emsp;（1）$A$的子集个数为$2^n$ </p>
-<p>&emsp;（2）非空子集个数为$2^n-1$</p>
-<p>&emsp;（3）真子集个数为$2^n-1$ </p>
-<p>&emsp;（4）非空真子集个数为$2^n-2$   </p>
-<p>d. 容斥原理：有限集$A, B$元素的个数记为$card(A), card(B)$，则  $card(A\cup B)=card(A)+card(B)-card(A\cap B)$.</p>
-<h2 id="逻辑"><a href="#逻辑" class="headerlink" title="逻辑"></a>逻辑</h2><ol>
-<li>命题：若$p$，则$q$，其中$p$为条件，$q$为结论，命题分为<ul>
-<li>真命题：成立的命题</li>
-<li>假命题：不成立的命题</li>
-</ul>
-</li>
-<li>命题的否定：$\neg p$，$p$不成立；逆命题：条件和结论互换位置；</li>
-<li>充分条件与必要条件：<ul>
-<li>充分条件：若$p$，则$q$成立，即$p \Rightarrow q$</li>
-<li>必要条件：上述逆命题成立，即$p \Leftarrow q$</li>
-<li>充要条件：上述命题与逆命题都成立，即$p \Leftrightarrow q$</li>
-</ul>
-</li>
-<li>全称量词和存在量词：<ul>
-<li>全称量词：$\forall$，表示“任意”“所有”“每一个”</li>
-<li>存在量词：$\exists$，表示“存在某个”“至少有一个”</li>
-</ul>
-</li>
-<li>含有量词的命题的否定：<ul>
-<li>$\neg (\forall x \in I, p(x)) \Leftrightarrow \exists x \in I, \neg p(x)$</li>
-<li>$\neg (\exists x \in I, p(x)) \Leftrightarrow \forall x \in I, \neg p(x)$</li>
-</ul>
-</li>
-</ol>
-<h2 id="习题-答案1-21更新"><a href="#习题-答案1-21更新" class="headerlink" title="习题(答案1/21更新)"></a>习题(答案1/21更新)</h2><p>集合专项：  </p>
-<p><img src="/images/gz-math/1.png" alt="1"></p>
-<p><img src="/images/gz-math/2.png" alt="2"></p>
-<p><img src="/images/gz-math/3.png" alt="3"></p>
-<p><img src="/images/gz-math/4.png" alt="4"></p>
-<p><img src="/images/gz-math/5.png" alt="5"></p>
-<p><img src="/images/gz-math/6.png" alt="6"></p>
-<p><img src="/images/gz-math/7.png" alt="7"></p>
-<p><img src="/images/gz-math/8.png" alt="8"></p>
-<p>逻辑专项：</p>
-<p><img src="/images/gz-math/9.png" alt="9"></p>
-<p><img src="/images/gz-math/10.png" alt="10"></p>
-<p><img src="/images/gz-math/11.png" alt="11"></p>
-<p><img src="/images/gz-math/12.png" alt="12"></p>
-<p><img src="/images/gz-math/13.png" alt="13"></p>
-<p><img src="/images/gz-math/14.png" alt="14"></p>
-<p><img src="/images/gz-math/15.png" alt="15"></p>
-<p><img src="/images/gz-math/16.png" alt="16"></p>
-<p>答案</p>
-<p><img src="/images/gz-math/d1.png" alt="d1"></p>
-<p><img src="/images/gz-math/d2.png" alt="d2"></p>
-<p><img src="/images/gz-math/d3.png" alt="d3"></p>
-<p><img src="/images/gz-math/d4.png" alt="d4"></p>
-<p><img src="/images/gz-math/d5.png" alt="d5"></p>
-<p><img src="/images/gz-math/d6.png" alt="d6"></p>
-<p><img src="/images/gz-math/d7.png" alt="d7"></p>
-<p><img src="/images/gz-math/d8.png" alt="d8"></p>
-<p><img src="/images/gz-math/d9.png" alt="d9"></p>
-<p><img src="/images/gz-math/d10.png" alt="d10"></p>
-<h1 id="一元二次函数、方程和不等式"><a href="#一元二次函数、方程和不等式" class="headerlink" title="一元二次函数、方程和不等式"></a>一元二次函数、方程和不等式</h1><h2 id="相等关系和不等关系"><a href="#相等关系和不等关系" class="headerlink" title="相等关系和不等关系"></a>相等关系和不等关系</h2><h2 id="一元二次函数与一元二次方程"><a href="#一元二次函数与一元二次方程" class="headerlink" title="一元二次函数与一元二次方程"></a>一元二次函数与一元二次方程</h2><h2 id="一元二次不等式"><a href="#一元二次不等式" class="headerlink" title="一元二次不等式"></a>一元二次不等式</h2>]]></content>
-      <categories>
-        <category>高中数学</category>
-      </categories>
-      <tags>
-        <tag>集合</tag>
-        <tag>函数</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>昨天的石头也太tm的帅了吧！</title>
     <url>/2024/01/14/syq/</url>
     <content><![CDATA[<p><img src="/images/syq.jpg" alt="石宇奇" title="昨天的石头真的牛"></p>
@@ -468,6 +468,38 @@
         <tag>测试</tag>
         <tag>评论</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>失败才是人生的主旋律是吗？</title>
+    <url>/2024/02/26/xiangsi/</url>
+    <content><![CDATA[<p>为什么所有人都觉得高代非常简单，而我怎么学都学不会呢？</p>
+<p>我真的太痛苦了，太痛苦了！！！</p>
+<p>证明题我总是没有思路，越没有思路，越不想学</p>
+<p>强行学则头晕，不学则焦虑</p>
+<p>咖啡续命，但是依旧原地踏步</p>
+<p>现在考研失败啦，我的人生去向何方？</p>
+  <span id="more"></span>
+<p>回想起来</p>
+<p>我前面从未成功过</p>
+<p>学前班我没学会看图写话</p>
+<p>三年级我考上第一也不是三好学生</p>
+<p>四年级数学竞赛拿了第一</p>
+<p>五年级就开始庸庸碌碌</p>
+<p>六年级 好不容易 数学拿了三两个满分</p>
+<p>初中一直在追赶</p>
+<p>年级前十常常没我</p>
+<p>中考发挥失常，擦着边进了尖子班</p>
+<p>高中的混子</p>
+<p>高考勉强考进北京交通大学</p>
+<p>大学的摆子</p>
+<p>毕业即失业</p>
+<p>二战战罢</p>
+<p>败北</p>
+<p>收场</p>
+]]></content>
+      <categories>
+        <category>心情</category>
+      </categories>
   </entry>
   <entry>
     <title>基础——系统安装与网络连接</title>
