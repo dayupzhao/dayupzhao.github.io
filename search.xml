@@ -253,179 +253,6 @@
       </tags>
   </entry>
   <entry>
-    <title>这是一篇测试文档</title>
-    <url>/2024/01/09/train/</url>
-    <content><![CDATA[<div style="text-align: center;">主要是用来测试博客内的各项功能  </div>  
-<div style="text-align: center;">尤其是新添加的评论功能</div>  
-<div style="text-align: center;">顺带梳理一下markdown的写作格式</div>
-
-
-  <span id="more"></span>
-<h1 id="这是一个一级标题"><a href="#这是一个一级标题" class="headerlink" title="这是一个一级标题"></a>这是一个一级标题</h1><h2 id="这是一个二级标题"><a href="#这是一个二级标题" class="headerlink" title="这是一个二级标题"></a>这是一个二级标题</h2><div style="text-align: left;">这是一张图片</div>
-
-<p><img src="/images/train/MSN.jpg" alt="MSN" title="巅峰时期的MSN"></p>
-<div style="text-align: right;">这是一个视频 </div> 
-
- <video width="480" height="320" controls>
- <source src="/images/train.MOV">
- </video>
-
-<h3 id="这是一个三级标题"><a href="#这是一个三级标题" class="headerlink" title="这是一个三级标题"></a>这是一个三级标题</h3><p> &emsp;&emsp;<br> &emsp;&emsp;这里两个空格</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>这是一个超链接<br>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<p>这是一行bash代码<br><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><br>这是一行python代码<br><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>&#123;<span class="string">&#x27;helloworld&#x27;</span>&#125;</span><br></pre></td></tr></table></figure></p>
-<div style="text-align: center;"><u>这是一个下划线</u></div> 
-
-
-<div style="text-align: center;"> 
-<s>这是一个删除线</s> 
-</div> 
-
-
-<div style="text-align: center;">这是一个分割线</div> 
-
-
-<hr>
-<p><br><br><br></p>
-<p><em>斜体</em>,  <strong>粗体</strong>,  <strong>粗体</strong>, <strong><em>粗斜</em></strong></p>
-<p><br><br><br></p>
-<p>下面是一个列表  * + —</p>
-<ul>
-<li>第一项</li>
-<li>第二项</li>
-<li>第三项</li>
-</ul>
-<p>有序列表</p>
-<ol>
-<li>第一项：<ul>
-<li>第一个元素</li>
-<li>第二个元素</li>
-<li>第三个元素</li>
-</ul>
-</li>
-<li>第二项</li>
-<li>第三项</li>
-</ol>
-<p>这是关于区块的  </p>
-<blockquote>
-<p>区块<br>区块  </p>
-<blockquote>
-<p>区块嵌套  </p>
-<blockquote>
-<p>区块嵌套  </p>
-<ol>
-<li>列表  <ul>
-<li>元素</li>
-</ul>
-</li>
-<li>列表</li>
-</ol>
-</blockquote>
-</blockquote>
-</blockquote>
-<p>列表中也可以使用区块</p>
-<ol>
-<li>列表<blockquote>
-<p>区块  </p>
-</blockquote>
-</li>
-</ol>
-<p>下面是一个表格  </p>
-<div class="table-container">
-<table>
-<thead>
-<tr>
-<th>列1</th>
-<th>列2</th>
-<th>列3 </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>第1行</td>
-<td>12</td>
-<td>13  </td>
-</tr>
-<tr>
-<td>第2行</td>
-<td>22</td>
-<td>23  </td>
-</tr>
-<tr>
-<td>第3行</td>
-<td>32</td>
-<td>33  </td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>下面是数学公式</p>
-<p>行内公式$f(x)=\Sigma_{i=0}^x i^2 $</p>
-<p>行间公式（范德蒙行列式）</p>
-<script type="math/tex; mode=display">\left|{\begin{array}{ccccc}
-            1& 1& 1& \cdots& 1\\
-            a_1& a_2& a_3& \cdots& a_n\\
-            a_1^2& a_2^2& a_3^2& \cdots& a_n^2\\
-            \vdots& \vdots& \vdots& & \vdots \\
-            a_1^{n-1}& a_2^{n-1}& a_3^{n-1}& \cdots& a_n^{n-1}
-    \end{array}}\right|=\prod \limits_{1\leq j<i\leq n} (a_i-a_j)</script>]]></content>
-      <categories>
-        <category>随记</category>
-      </categories>
-      <tags>
-        <tag>测试</tag>
-        <tag>评论</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>昨天的石头也太tm的帅了吧！</title>
-    <url>/2024/01/14/syq/</url>
-    <content><![CDATA[<p><img src="/images/syq.jpg" alt="石宇奇" title="昨天的石头真的牛"></p>
-<div style="text-align: center;">昨天的石宇奇真的超神！一个月内两次屠龙成功！  </div> 
-
-<div style="text-align: center;">“亲爱的桃，请帮我转告奈良冈，他的体能训练课真的很管用！”  </div> 
-]]></content>
-      <categories>
-        <category>心情</category>
-      </categories>
-      <tags>
-        <tag>羽毛球</tag>
-        <tag>石宇奇</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>失败才是人生的主旋律是吗？</title>
-    <url>/2024/02/26/xiangsi/</url>
-    <content><![CDATA[<p>为什么所有人都觉得高代非常简单，而我怎么学都学不会呢？</p>
-<p>我真的太痛苦了，太痛苦了！！！</p>
-<p>证明题我总是没有思路，越没有思路，越不想学</p>
-<p>强行学则头晕，不学则焦虑</p>
-<p>咖啡续命，但是依旧原地踏步</p>
-<p>现在考研失败啦，我的人生去向何方？</p>
-  <span id="more"></span>
-<p>回想起来</p>
-<p>我前面从未成功过</p>
-<p>学前班我没学会看图写话</p>
-<p>三年级我考上第一也不是三好学生</p>
-<p>四年级数学竞赛拿了第一</p>
-<p>五年级就开始庸庸碌碌</p>
-<p>六年级 好不容易 数学拿了三两个满分</p>
-<p>初中一直在追赶</p>
-<p>年级前十常常没我</p>
-<p>中考发挥失常，擦着边进了尖子班</p>
-<p>高中的混子</p>
-<p>高考勉强考进北京交通大学</p>
-<p>大学的摆子</p>
-<p>毕业即失业</p>
-<p>二战战罢</p>
-<p>败北</p>
-<p>收场</p>
-]]></content>
-      <categories>
-        <category>心情</category>
-      </categories>
-  </entry>
-  <entry>
     <title>【行测】常识汇总</title>
     <url>/2024/01/18/hc-cs/</url>
     <content><![CDATA[<p>&emsp;&emsp;<font color="green">记录一下备考省考的过程中遇到的各种常识题，以作复习之用（有些还挺难的）。</font></p>
@@ -607,6 +434,147 @@
       </tags>
   </entry>
   <entry>
+    <title>昨天的石头也太tm的帅了吧！</title>
+    <url>/2024/01/14/syq/</url>
+    <content><![CDATA[<p><img src="/images/syq.jpg" alt="石宇奇" title="昨天的石头真的牛"></p>
+<div style="text-align: center;">昨天的石宇奇真的超神！一个月内两次屠龙成功！  </div> 
+
+<div style="text-align: center;">“亲爱的桃，请帮我转告奈良冈，他的体能训练课真的很管用！”  </div> 
+]]></content>
+      <categories>
+        <category>心情</category>
+      </categories>
+      <tags>
+        <tag>羽毛球</tag>
+        <tag>石宇奇</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>这是一篇测试文档</title>
+    <url>/2024/01/09/train/</url>
+    <content><![CDATA[<div style="text-align: center;">主要是用来测试博客内的各项功能  </div>  
+<div style="text-align: center;">尤其是新添加的评论功能</div>  
+<div style="text-align: center;">顺带梳理一下markdown的写作格式</div>
+
+
+  <span id="more"></span>
+<h1 id="这是一个一级标题"><a href="#这是一个一级标题" class="headerlink" title="这是一个一级标题"></a>这是一个一级标题</h1><h2 id="这是一个二级标题"><a href="#这是一个二级标题" class="headerlink" title="这是一个二级标题"></a>这是一个二级标题</h2><div style="text-align: left;">这是一张图片</div>
+
+<p><img src="/images/train/MSN.jpg" alt="MSN" title="巅峰时期的MSN"></p>
+<div style="text-align: right;">这是一个视频 </div> 
+
+ <video width="480" height="320" controls>
+ <source src="/images/train.MOV">
+ </video>
+
+<h3 id="这是一个三级标题"><a href="#这是一个三级标题" class="headerlink" title="这是一个三级标题"></a>这是一个三级标题</h3><p> &emsp;&emsp;<br> &emsp;&emsp;这里两个空格</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>这是一个超链接<br>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<p>这是一行bash代码<br><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><br>这是一行python代码<br><figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="built_in">print</span>&#123;<span class="string">&#x27;helloworld&#x27;</span>&#125;</span><br></pre></td></tr></table></figure></p>
+<div style="text-align: center;"><u>这是一个下划线</u></div> 
+
+
+<div style="text-align: center;"> 
+<s>这是一个删除线</s> 
+</div> 
+
+
+<div style="text-align: center;">这是一个分割线</div> 
+
+
+<hr>
+<p><br><br><br></p>
+<p><em>斜体</em>,  <strong>粗体</strong>,  <strong>粗体</strong>, <strong><em>粗斜</em></strong></p>
+<p><br><br><br></p>
+<p>下面是一个列表  * + —</p>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+<li>第三项</li>
+</ul>
+<p>有序列表</p>
+<ol>
+<li>第一项：<ul>
+<li>第一个元素</li>
+<li>第二个元素</li>
+<li>第三个元素</li>
+</ul>
+</li>
+<li>第二项</li>
+<li>第三项</li>
+</ol>
+<p>这是关于区块的  </p>
+<blockquote>
+<p>区块<br>区块  </p>
+<blockquote>
+<p>区块嵌套  </p>
+<blockquote>
+<p>区块嵌套  </p>
+<ol>
+<li>列表  <ul>
+<li>元素</li>
+</ul>
+</li>
+<li>列表</li>
+</ol>
+</blockquote>
+</blockquote>
+</blockquote>
+<p>列表中也可以使用区块</p>
+<ol>
+<li>列表<blockquote>
+<p>区块  </p>
+</blockquote>
+</li>
+</ol>
+<p>下面是一个表格  </p>
+<div class="table-container">
+<table>
+<thead>
+<tr>
+<th>列1</th>
+<th>列2</th>
+<th>列3 </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>第1行</td>
+<td>12</td>
+<td>13  </td>
+</tr>
+<tr>
+<td>第2行</td>
+<td>22</td>
+<td>23  </td>
+</tr>
+<tr>
+<td>第3行</td>
+<td>32</td>
+<td>33  </td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>下面是数学公式</p>
+<p>行内公式$f(x)=\Sigma_{i=0}^x i^2 $</p>
+<p>行间公式（范德蒙行列式）</p>
+<script type="math/tex; mode=display">\left|{\begin{array}{ccccc}
+            1& 1& 1& \cdots& 1\\
+            a_1& a_2& a_3& \cdots& a_n\\
+            a_1^2& a_2^2& a_3^2& \cdots& a_n^2\\
+            \vdots& \vdots& \vdots& & \vdots \\
+            a_1^{n-1}& a_2^{n-1}& a_3^{n-1}& \cdots& a_n^{n-1}
+    \end{array}}\right|=\prod \limits_{1\leq j<i\leq n} (a_i-a_j)</script>]]></content>
+      <categories>
+        <category>随记</category>
+      </categories>
+      <tags>
+        <tag>测试</tag>
+        <tag>评论</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>基础——系统安装与网络连接</title>
     <url>/2024/01/15/yw1/</url>
     <content><![CDATA[<p> &emsp;&emsp;  本文主要介绍Windows系统在实机和虚拟机上的安装，以及Linux操作系统的安装。<br>  <span id="more"></span></p>
@@ -666,12 +634,44 @@
 </ol>
 <h2 id="虚拟机中安装Windows-sever-2008系统"><a href="#虚拟机中安装Windows-sever-2008系统" class="headerlink" title="虚拟机中安装Windows sever 2008系统"></a>虚拟机中安装Windows sever 2008系统</h2><h2 id="虚拟机网络设置"><a href="#虚拟机网络设置" class="headerlink" title="虚拟机网络设置"></a>虚拟机网络设置</h2><h1 id="安装Linux系统"><a href="#安装Linux系统" class="headerlink" title="安装Linux系统"></a>安装Linux系统</h1>]]></content>
       <categories>
-        <category>运维技术初级</category>
+        <category>运维</category>
       </categories>
       <tags>
         <tag>虚拟机</tag>
         <tag>Windows</tag>
         <tag>Linux</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>失败才是人生的主旋律是吗？</title>
+    <url>/2024/02/26/xiangsi/</url>
+    <content><![CDATA[<p>为什么所有人都觉得高代非常简单，而我怎么学都学不会呢？</p>
+<p>我真的太痛苦了，太痛苦了！！！</p>
+<p>证明题我总是没有思路，越没有思路，越不想学</p>
+<p>强行学则头晕，不学则焦虑</p>
+<p>咖啡续命，但是依旧原地踏步</p>
+<p>现在考研失败啦，我的人生去向何方？</p>
+  <span id="more"></span>
+<p>回想起来</p>
+<p>我前面从未成功过</p>
+<p>学前班我没学会看图写话</p>
+<p>三年级我考上第一也不是三好学生</p>
+<p>四年级数学竞赛拿了第一</p>
+<p>五年级就开始庸庸碌碌</p>
+<p>六年级 好不容易 数学拿了三两个满分</p>
+<p>初中一直在追赶</p>
+<p>年级前十常常没我</p>
+<p>中考发挥失常，擦着边进了尖子班</p>
+<p>高中的混子</p>
+<p>高考勉强考进北京交通大学</p>
+<p>大学的摆子</p>
+<p>毕业即失业</p>
+<p>二战战罢</p>
+<p>败北</p>
+<p>收场</p>
+]]></content>
+      <categories>
+        <category>心情</category>
+      </categories>
   </entry>
 </search>
